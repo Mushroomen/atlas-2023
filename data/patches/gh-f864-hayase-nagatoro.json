@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Hayase Nagatoro",
+	"description": "The titular character of the manga series Ijiranaide, Nagatoro-san\n",
+	"links": {},
+	"path": {
+		"224": [
+			[
+				1392,
+				-907
+			],
+			[
+				1392,
+				-907
+			],
+			[
+				1389,
+				-902
+			],
+			[
+				1389,
+				-891
+			],
+			[
+				1401,
+				-891
+			],
+			[
+				1399,
+				-904
+			],
+			[
+				1396,
+				-906
+			]
+		]
+	},
+	"center": {
+		"224": [
+			1394,
+			-897
+		]
+	}
+}
